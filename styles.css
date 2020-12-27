@@ -31,9 +31,10 @@ p{
    word-spacing: 100px;
 }
 .contact-me{
+    width:25%;
     padding-bottom:40px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .copyright{
   font-size:0.75rem;
@@ -51,9 +52,10 @@ p{
   border-radius: 28px;
   font-family: Arial;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 43%;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
+
 }
 
 .btn:hover {
@@ -146,14 +148,11 @@ h3{
 
 }
 .bottom-cloud{
-  position:absolute;
   left: 300px;
   bottom: 300px;
-
 }
 
 .top-cloud{
-  position:absolute;
   right:300px;
   top: 50px;
 }
