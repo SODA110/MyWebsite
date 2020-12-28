@@ -68,10 +68,12 @@ p{
   text-decoration: none;
 }
 .top-container{
-  background-color: #8BB0B0;
-  position: relative;
-  padding-top:100px;
+  background-image: url("stars.gif"),url("topdiv.png");
+
+  background-size:contain;
+  padding-top: 100px;
 }
+
 .middle-container{
   background-image: url("Experimenting.png");
   background-repeat: no-repeat;
