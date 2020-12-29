@@ -68,6 +68,7 @@ p{
   text-decoration: none;
 }
 .top-container{
+  background-color: #8bb2b1;
   background-image: url("stars.gif"),url("topdiv.jpg");
   background-repeat: repeat-x;
   background-size:cover;
