@@ -69,8 +69,7 @@ p{
 }
 .top-container{
   background-image: url("stars.gif"),url("topdiv.png");
-
-  background-size:contain;
+  background-size:cover;
   padding-top: 100px;
 }
 
