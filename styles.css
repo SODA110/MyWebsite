@@ -68,13 +68,14 @@ p{
   text-decoration: none;
 }
 .top-container{
-  background-image: url("stars.gif"),url("topdiv.png");
+  background-image: url("stars.gif"),url("topdiv.jpg");
+  background-repeat: repeat-x;
   background-size:cover;
   padding-top: 100px;
 }
 
 .middle-container{
-  background-image: url("Experimenting.png");
+  background-image: url("Experimenting.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-color: #000000;
